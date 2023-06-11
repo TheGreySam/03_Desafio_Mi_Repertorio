@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TheGreySam/03_Desafio_Mi_Repertorio/issues"
   },
-  "homepage": "https://github.com/TheGreySam/03_Desafio_Mi_Repertorio#readme"
+  "homepage": "https://github.com/TheGreySam/03_Desafio_Mi_Repertorio#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
